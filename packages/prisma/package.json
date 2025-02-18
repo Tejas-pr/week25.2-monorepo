@@ -7,7 +7,7 @@
     "@repo/typescript-config": "workspace:*"
   },
   "exports": {
-    "./client": "./src/index.ts"
+    "./client": "./dist/index.js"
   },
   "keywords": [],
   "author": "",
